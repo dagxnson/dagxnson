@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Đặng Xuân Sơn
 - 👀 I’m interested in Elon Musk
 - 🌱 I’m currently learning C++, Javascript, Computer vision
-- 💞️ I’m looking to collaborate on Sapgeogeant
+- 💞️ I’m looking to collaborate on YS
 - 📫 Email: dagxnson0@gmail.com SMS: +84 865043556
-- ⚡ Fun fact: no fact
+- ⚡ Fun fact: not a gay
